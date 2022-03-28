@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220463341016",
+    "project_id": "aibl-quiz-app",
+    "storage_bucket": "aibl-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220463341016:android:00d95d5e8a631f2dfce6ad",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220463341016-fsj8kd8n23l99039ho6vsminri41navd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJbWqgwV1MzzyyuoZ4HB-PtXVonKCac8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220463341016-fsj8kd8n23l99039ho6vsminri41navd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
